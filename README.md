@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!]
+## <b> [Click here to Play the GAME!!](https://ajay6217.github.io/memory_matching_game/index.html)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
